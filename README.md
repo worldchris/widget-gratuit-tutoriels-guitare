@@ -21,7 +21,7 @@ Le web musical est saturé de distractions. Ce widget permet aux guitaristes de 
 
 ## 🚀 Intégration Rapide (Embed Code)
 
-Copiez et collez simplement ce code HTML sur votre site (WordPress, Wix, Ghost, ou site statique) :
+Copiez et collez simplement ce code HTML sur votre site (WordPress, Wix, Ghost, ou site statique). Assurez-vous de le coller en tant que code HTML brut pour éviter le formatage automatique de l'URL :
 
 ```html
 <div style="width: 100%; max-width: 350px; height: 500px; margin: 0 auto;">
